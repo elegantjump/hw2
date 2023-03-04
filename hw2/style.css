@@ -1,0 +1,364 @@
+
+.LIFESTYLE{
+position: absolute;
+width: 71px;
+height: 19px;
+left: 314px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-decoration: none;
+color: #7D7D7D;
+}
+.PHOTODIARY{
+position: absolute;
+width: 89px;
+height: 19px;
+left: 485px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-decoration: none;
+color: #7D7D7D;
+}
+.MUSIC{
+position: absolute;
+width: 44px;
+height: 19px;
+left: 674px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-decoration: none;
+color: #7D7D7D;
+}
+.TRAVEL{
+position: absolute;
+width: 52px;
+height: 19px;
+left: 818px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-decoration: none;
+color: #7D7D7D;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #03A9F4;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.img1{
+position: absolute;
+width: 420px;
+height: 280px;
+left: 148px;
+top: 182px;
+background: url(1.png);
+}
+.img2{
+position: absolute;
+width: 420px;
+height: 280px;
+left: 633px;
+top: 182px;
+background: url(2.png);
+}
+.img3{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 147px;
+    top: 858px;
+    background: url(3.png);
+}
+.img4{
+position: absolute;
+width: 420px;
+height: 280px;
+left: 633px;
+top: 858px;
+background: url(4.png);
+}
+.img5{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 149px;
+    top: 1500px;
+    background: url(1.png);
+}
+.img6{
+    position: absolute;
+    width: 419px;
+    height: 280px;
+    left: 633px;
+    top: 1504px;
+    background: url(2.png);
+}
+.text1{
+position: absolute;
+width: 64px;
+height: 16px;
+left: 148px;
+top: 524px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+}
+.text2{
+    position: absolute;
+    width: 64px;
+    height: 16px;
+    left: 633px;
+    top: 524px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+}
+.text3{
+    position: absolute;
+    width: 86px;
+    height: 16px;
+    left: 148px;
+    top: 1170px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+}
+.text4{
+    position: absolute;
+    width: 86px;
+    height: 16px;
+    left: 633px;
+    top: 1170px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+}
+.text5{
+    position: absolute;
+    width: 64px;
+    height: 16px;
+    left: 149px;
+    top: 1812px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+}
+.text6{
+    position: absolute;
+    width: 64px;
+    height: 16px;
+    left: 632px;
+    top: 1816px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+}
+.btext1{
+    position: absolute;
+    width: 408px;
+    height: 40px;
+    left: 148px;
+    top: 572px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.btext2{
+    position: absolute;
+    width: 379px;
+    height: 40px;
+    left: 633px;
+    top: 572px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.btext3{
+    position: absolute;
+    width: 225px;
+    height: 40px;
+    left: 148px;
+    top: 1218px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.btext4{
+    position: absolute;
+    width: 324px;
+    height: 40px;
+    left: 633px;
+    top: 1218px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.btext5{
+    position: absolute;
+    width: 321px;
+    height: 40px;
+    left: 149px;
+    top: 1860px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.btext6{
+    position: absolute;
+    width: 226px;
+    height: 40px;
+    left: 632px;
+    top: 1864px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.mtext1{
+    position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 148px;
+    top: 652px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+.mtext2{
+    position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 633px;
+    top: 652px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+.mtext3{
+    position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 148px;
+    top: 1298px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+.mtext4{
+    position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 633px;
+    top: 1298px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+.mtext5{
+    position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 149px;
+    top: 1940px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+.mtext6{
+    position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 632px;
+    top: 1944px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #626262;
+}
+.button1{
+}
+p:nth-child(even){
+    background-color: darkblue;
+}
+a:nth-child(even){
+    background-color: darkred;
+}
+h2:nth-child(even){
+    background-color: darkred;
+}
+body:nth-child(even){
+    background-color: darkred;
+}
+
