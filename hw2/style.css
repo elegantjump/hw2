@@ -360,5 +360,19 @@ h2:nth-child(even){
 }
 body:nth-child(even){
     background-color: darkred;
+    position: absolute;
+    width: 165px;
+    height: 60px;
+    left: 506px;
+    top: 2130px;
+    bottom: 66px;
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #626262;
+    border: 1px solid #626262;
+    background-color: white;
 }
 
