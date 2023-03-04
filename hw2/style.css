@@ -348,18 +348,6 @@ color: #B4AD9E;
     color: #626262;
 }
 .button1{
-}
-p:nth-child(even){
-    background-color: darkblue;
-}
-a:nth-child(even){
-    background-color: darkred;
-}
-h2:nth-child(even){
-    background-color: darkred;
-}
-body:nth-child(even){
-    background-color: darkred;
     position: absolute;
     width: 165px;
     height: 60px;
